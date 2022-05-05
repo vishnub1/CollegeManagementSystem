@@ -1,4 +1,4 @@
 # CollegeManagementSystem
 --------------------------
-Technologies Used : Core Java, AWT, Swing, JDBC, MYSQL, XammpServer, 
+Technologies Used : Core Java, AWT, Swing, JDBC, MYSQL, XAMPPServer, 
 --------------------------------------------------------------------
